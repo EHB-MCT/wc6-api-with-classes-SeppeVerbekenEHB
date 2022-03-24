@@ -16,7 +16,7 @@ class LocationFinder {
   }
 
   get location() {
-      return this._location
+      return this._location;
   }
 
   getDistance(latitude, longitude) {
